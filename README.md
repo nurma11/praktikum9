@@ -73,7 +73,7 @@
 	}
 
 -berikut hasilnya 
-![img]()
+![img](https://github.com/nurma11/praktikum9/blob/master/latihan1/hasillatihan1.jpg)
 
 # latihan2# menentukan modus dari n bilangan bulat	
 	-alur algoritmanya 
@@ -189,7 +189,7 @@
 	}
 
 -ini hasilnya
-![img]()
+![img](https://github.com/nurma11/praktikum9/blob/master/latihan2/hasillatihan2.jpg)
 
 # latihan3# membuat program untuk mengalikan dua buah matriks
 
@@ -250,8 +250,7 @@
 	}
 
 - ini hasilnya
-
-	![img]()
+![img](https://github.com/nurma11/praktikum9/blob/master/latihann3/hasillatihan3.png)
 	
 # latihan4# program untuk menghasilkan transpose suatu matriks
 
@@ -311,4 +310,4 @@
 	}
 
 - ini hasilnya
-![img]()
+![img](https://github.com/nurma11/praktikum9/blob/master/latihan4/hasillatihan4.png)
